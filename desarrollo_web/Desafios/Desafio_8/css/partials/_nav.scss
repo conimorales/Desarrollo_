@@ -1,0 +1,9 @@
+/* nav */
+@import "./variables.scss";
+nav {
+    color: $w;
+    background: linear-gradient(to right, #422479, #543194, #422479);
+    .color-white {
+    color: $w;
+    }
+}
