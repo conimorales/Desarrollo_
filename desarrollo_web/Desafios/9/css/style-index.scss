@@ -41,9 +41,8 @@
 	}
 }
 .title {
-	font-weight: map-get($estilos, fw);
-	font-size: map-get($estilos, size);
-
+	font-weight: 200;
+	font-size: 30px;
 	text-transform: uppercase;
 	text-align: center;
 	padding-top: 15px;

@@ -1,0 +1,27 @@
+/* nav */
+nav {
+  color: white;
+  background: linear-gradient(to right, #422479, #543194, #422479);
+}
+nav .color-white {
+  color: white;
+}
+
+/* footer */
+footer {
+  background-color: #533190;
+  padding-bottom: 8px;
+  color: white;
+  padding-bottom: 15px;
+}
+footer a {
+  color: white;
+}
+footer .padding1 {
+  margin-left: 5px;
+  margin-right: 5px;
+}
+footer .text-aling i {
+  margin-left: 8px;
+  margin-top: 20px;
+}/*# sourceMappingURL=styles.css.map */
