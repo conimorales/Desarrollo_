@@ -7,7 +7,7 @@
     border: 0;
 
     h5 {
-        color: #01b0f8;
+        color: #7b6d99;
         font-size: 21px;
         line-height: 1.3;
     }
@@ -16,13 +16,11 @@
         font-size: 18px;
         color: #666666;
     }
-
     .card-img-top {
-        max-width: 100px;
         border-radius: 50%;
         margin: 15px auto 0;
         box-shadow: 0 8px 20px -4px #95abbb;
-        width: 100px;
-        height: 100px;
+        height:  200px;
+        width: auto;
     }
 }
